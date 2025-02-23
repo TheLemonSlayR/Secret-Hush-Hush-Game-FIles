@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Player","order":16,"path":"folders/Player.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Functions","order":17,"path":"scripts/Functions/Functions.yy",},
+    {"name":"OWall","order":14,"path":"objects/OWall/OWall.yy",},
+    {"name":"PlayerLeft","order":1,"path":"sprites/PlayerLeft/PlayerLeft.yy",},
+    {"name":"PlayerRight","order":2,"path":"sprites/PlayerRight/PlayerRight.yy",},
+    {"name":"RustyPistol","order":3,"path":"sprites/RustyPistol/RustyPistol.yy",},
+    {"name":"Wall","order":13,"path":"sprites/Wall/Wall.yy",},
+  ],
+}
