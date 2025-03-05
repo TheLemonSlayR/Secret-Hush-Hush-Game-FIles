@@ -1,0 +1,8 @@
+How the code works:
+
+- Room gen is created in genMakeRoom Script
+- Room contents can be edited in the sprite editor; Each color is tied to an object added in (color values are layed out in genMakeRoom
+- Enemies have 4 different sprites needed (idle, walk, hurt, dead). Blocks can just be used to test code, I can add in actual sprites later.
+
+
+- Literally just copy code from other items to make the new itmes lol 
